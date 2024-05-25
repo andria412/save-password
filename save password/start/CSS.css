@@ -1,0 +1,33 @@
+body{ 
+/* background-image: url("singapore-bank-of-china-cbd-business.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+width: 100%;
+margin: 0;
+padding: 0; */
+
+    margin: 0;
+    padding: 0;
+    background-image: url("singapore-bank-of-china-cbd-business.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+
+}
+
+
+
+
+label {
+    display: block;
+    font:
+      1rem 'Fira Sans',
+      sans-serif;
+  }
+  
+  input,
+  label {
+    margin: 0.4rem 0;
+}
